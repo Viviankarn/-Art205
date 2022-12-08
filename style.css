@@ -28,7 +28,7 @@ header{
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
     background-color: gold;
-    background-image: linear-gradient(to right, red 0%, red 2%, gold 100%);
+    /*background-image: linear-gradient(to right, red 0%, red 2%, gold 100%);*/
 }
 
 .logo{
@@ -77,7 +77,7 @@ header{
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
     background-color: gold;
-    background-image: linear-gradient(to right, red 0%, red 2%, gold 100%);
+    /*background-image: linear-gradient(to right, red 0%, red 2%, gold 100%);*/
 }
 
 
